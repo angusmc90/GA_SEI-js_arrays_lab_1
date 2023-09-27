@@ -12,6 +12,9 @@ COPIED
 AND
 PASTED
 
+Note from class on 9/27
+already added all exercises, so adding a note to the sake of commit code-along moment
+
 */
 
 /*
