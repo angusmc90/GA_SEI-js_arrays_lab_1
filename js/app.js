@@ -15,6 +15,8 @@ PASTED
 Note from class on 9/27
 already added all exercises, so adding a note to the sake of commit code-along moment
 
+Adding a new commit for adding in the rest of the exercizes
+
 */
 
 /*
